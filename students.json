@@ -1,0 +1,29 @@
+[
+    {
+        "email": "cha",
+        "names": "cha",
+        "courses_registered": [],
+        "GPA": 0.0
+    },
+    {
+        "email": "begatti",
+        "names": "begatti",
+        "courses_registered": [],
+        "GPA": 0.0
+    },
+    {
+        "email": "jeo@gmail.com",
+        "names": "joe",
+        "courses_registered": [
+            {
+                "course": {
+                    "name": "crs",
+                    "trimester": "2nd",
+                    "credits": 20
+                },
+                "grade": 3.0
+            }
+        ],
+        "GPA": 3.0
+    }
+]
